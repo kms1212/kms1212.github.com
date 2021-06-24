@@ -1,0 +1,7 @@
+<map id="openFSL::FS_FAT32::getLinkedCluster" name="openFSL::FS_FAT32::getLinkedCluster">
+<area shape="rect" id="node1" title="Get entire linked cluster." alt="" coords="5,93,157,135"/>
+<area shape="rect" id="node2" href="$classopen_f_s_l_1_1_disk_device.html#a3c7507d9af94c12bf3f3d573ad670341" title="Sector size getter." alt="" coords="219,5,377,47"/>
+<area shape="rect" id="node3" href="$classopen_f_s_l_1_1_sector.html#af2a17aad9f4f4d65d08b259a1e8ae29c" title="Data buffer getter." alt="" coords="205,71,391,98"/>
+<area shape="rect" id="node4" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#abc9ceeded8510d417a0eb72bb0468805" title="Linked cluster counter." alt="" coords="213,123,383,164"/>
+<area shape="rect" id="node5" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#a1930b23806258c71a260e01b603634fa" title="Next cluster picker." alt="" coords="439,152,591,193"/>
+</map>
