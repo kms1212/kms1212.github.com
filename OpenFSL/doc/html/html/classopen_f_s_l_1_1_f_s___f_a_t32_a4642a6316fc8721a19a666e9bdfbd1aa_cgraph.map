@@ -1,0 +1,6 @@
+<map id="openFSL::FS_FAT32::allocateFreeCluster" name="openFSL::FS_FAT32::allocateFreeCluster">
+<area shape="rect" id="node1" title="Allocate free cluster." alt="" coords="5,39,157,80"/>
+<area shape="rect" id="node2" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#a1406cf01fd21f44de516def497b7d069" title="Get Last Cluster." alt="" coords="205,5,357,47"/>
+<area shape="rect" id="node4" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#a58a9719bf310e867c3ab567e860ad5de" title="Get Next Free Cluster." alt="" coords="205,71,357,112"/>
+<area shape="rect" id="node3" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#a1930b23806258c71a260e01b603634fa" title="Next cluster picker." alt="" coords="405,5,557,47"/>
+</map>
