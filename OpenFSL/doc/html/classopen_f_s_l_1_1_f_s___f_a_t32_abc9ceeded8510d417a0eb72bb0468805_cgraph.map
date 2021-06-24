@@ -1,4 +1,0 @@
-<map id="openFSL::FS_FAT32::getLinkedClusterCount" name="openFSL::FS_FAT32::getLinkedClusterCount">
-<area shape="rect" id="node1" title="Linked cluster counter." alt="" coords="5,5,175,47"/>
-<area shape="rect" id="node2" href="$classopen_f_s_l_1_1_f_s___f_a_t32.html#a1930b23806258c71a260e01b603634fa" title="Next cluster picker." alt="" coords="223,5,375,47"/>
-</map>

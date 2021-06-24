@@ -1,6 +1,0 @@
-var searchData=
-[
-  ['chdir_218',['chdir',['../classopen_f_s_l_1_1_f_s___f_a_t32.html#ad5dd6f60a83f74b45ba7d557023a5890',1,'openFSL::FS_FAT32']]],
-  ['close_219',['close',['../classopen_f_s_l_1_1_disk_device.html#ae7510f51bad089f4bef1214d6388bf7b',1,'openFSL::DiskDevice']]],
-  ['closefile_220',['closeFile',['../classopen_f_s_l_1_1_f_s___f_a_t32.html#a06a73609d18213dd8bf22e9329b01517',1,'openFSL::FS_FAT32']]]
-];
